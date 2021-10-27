@@ -1,0 +1,12 @@
+.bouton a {
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background-color: red;
+color:white;
+text-decoration:none;
+}
+.bouton a:hover {
+background:url(images/bouton-noir-2.png) no-repeat;
+}
